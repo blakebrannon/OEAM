@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OEAM</key>
+	<dict>
+		<key>encryptionCert</key>
+		<data></data>
+		<key>errorLogs</key>
+		<array>
+			<dict>
+				<key>ErrorCode</key>
+				<string>204</string>
+				<key>ErrorDescription</key>
+				<string>details of the error</string>
+			</dict>
+			<dict>
+				<key>ErrorCode</key>
+				<string>204</string>
+				<key>ErrorDescription</key>
+				<string>details of the error</string>
+			</dict>
+			<dict>
+				<key>ErrorCode</key>
+				<string>204</string>
+				<key>ErrorDescription</key>
+				<string>details of the error</string>
+			</dict>
+		</array>
+		<key>analytics</key>
+		<array>
+			<dict>
+				<key>timestampstart</key>
+				<string>UTC time</string>
+				<key>timestampstop</key>
+				<string>UTC time</string>
+			</dict>
+			<dict>
+				<key>timestampstart</key>
+				<string>UTC time</string>
+				<key>timestampstop</key>
+				<string>UTC time</string>
+			</dict>
+			<dict>
+				<key>timestampstart</key>
+				<string>UTC time</string>
+				<key>timestampstop</key>
+				<string>UTC time</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Custom1</key>
+	<string></string>
+	<key>CustomN</key>
+	<string></string>
+</dict>
+</plist>

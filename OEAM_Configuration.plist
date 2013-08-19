@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OEAM</key>
+	<dict>
+		<key>OMACSpecificationVersion</key>
+		<string>1.0</string>
+		<key>OMACPayloadVersion</key>
+		<string>1.0</string>
+		<key>AppServiceHostname</key>
+		<string>demo.awmdm.com</string>
+		<key>AppServicePort</key>
+		<string>443</string>
+		<key>AppServicePath</key>
+		<string>deviceservices</string>
+		<key>AppServiceUseSSL</key>
+		<true/>
+		<key>UID</key>
+		<string></string>
+		<key>mail</key>
+		<string></string>
+		<key>domain</key>
+		<string></string>
+		<key>givenName</key>
+		<string></string>
+		<key>SN</key>
+		<string></string>
+		<key>displayName</key>
+		<string></string>
+		<key>BrandingWallpaper</key>
+		<string></string>
+		<key>BrandingLogo</key>
+		<string></string>
+		<key>BrandingCompanyName</key>
+		<string></string>
+		<key>DeviceUID</key>
+		<string></string>
+		<key>ManagementID</key>
+		<string></string>
+		<key>ManagementProvider</key>
+		<string>com.airwatch.airwatch</string>
+		<key>ManagementProviderURL</key>
+		<string></string>
+		<key>LogLevel</key>
+		<string></string>
+		<key>requirePasscode</key>
+		<false/>
+		<key>allowCloudSync</key>
+		<false/>
+		<key>allowCutCopyPaste</key>
+		<false/>
+		<key>allowRoaming</key>
+		<false/>
+		<key>OAuthToken</key>
+		<string>0</string>
+		<key>OAuthSecret</key>
+		<string></string>
+	</dict>
+	<key>Custom1</key>
+	<string></string>
+	<key>CustomN</key>
+	<string></string>
+</dict>
+</plist>
