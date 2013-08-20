@@ -48,9 +48,22 @@
 		<false/>
 		<key>allowCloudSync</key>
 		<false/>
+		<key>allowedCloudSyncApps</key>
+		<array>
+			<string>com.air-watch.content.locker</string>
+			<string>com.apple.icloud</string>
+			<string>net.box.BoxNet</string>
+			<string>com.google.Drive</string>
+			<string>com.getdropbox.Dropbox</string>
+			<string>com.microsoft.skydrive</string>
+		</array>
 		<key>allowCutCopyPaste</key>
 		<false/>
 		<key>allowRoaming</key>
+		<false/>
+		<key>allowCelluar</key>
+		<false/>
+		<key>allowScreenCapture</key>
 		<false/>
 		<key>OAuthToken</key>
 		<string>0</string>
