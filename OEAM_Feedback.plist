@@ -6,23 +6,35 @@
 	<dict>
 		<key>encryptionCert</key>
 		<data></data>
-		<key>errorLogs</key>
+		<key>logs</key>
 		<array>
 			<dict>
+				<key>SystemTime</key>
+				<date>2013-08-21T01:30:46Z</date>
+				<key>Level</key>
+				<string>ERROR</string>
 				<key>ErrorCode</key>
 				<string>204</string>
 				<key>ErrorDescription</key>
 				<string>details of the error</string>
 			</dict>
 			<dict>
+				<key>SystemTime</key>
+				<date>2013-08-21T01:30:46Z</date>
+				<key>Level</key>
+				<string>INFO</string>
 				<key>ErrorCode</key>
-				<string>204</string>
+				<string>876</string>
 				<key>ErrorDescription</key>
 				<string>details of the error</string>
 			</dict>
 			<dict>
+				<key>SystemTime</key>
+				<date>2013-08-21T01:30:46Z</date>
+				<key>Level</key>
+				<string>DEBUG</string>
 				<key>ErrorCode</key>
-				<string>204</string>
+				<string>1123</string>
 				<key>ErrorDescription</key>
 				<string>details of the error</string>
 			</dict>
@@ -30,22 +42,28 @@
 		<key>analytics</key>
 		<array>
 			<dict>
-				<key>timestampstart</key>
-				<string>UTC time</string>
-				<key>timestampstop</key>
-				<string>UTC time</string>
+				<key>Type</key>
+				<string>Usage</string>
+				<key>SystemTimeLaunch</key>
+				<date>2013-08-21T01:34:41Z</date>
+				<key>SystemTimeSuspend</key>
+				<date>2013-08-21T01:34:43Z</date>
 			</dict>
 			<dict>
-				<key>timestampstart</key>
-				<string>UTC time</string>
-				<key>timestampstop</key>
-				<string>UTC time</string>
+				<key>Type</key>
+				<string>Usage</string>
+				<key>SystemTimeLaunch</key>
+				<date>2013-08-21T01:34:45Z</date>
+				<key>SystemTimeSuspend</key>
+				<date>2013-08-21T01:34:47Z</date>
 			</dict>
 			<dict>
-				<key>timestampstart</key>
-				<string>UTC time</string>
-				<key>timestampstop</key>
-				<string>UTC time</string>
+				<key>Type</key>
+				<string>Usage</string>
+				<key>SystemTimeLaunch</key>
+				<date>2013-08-21T01:34:50Z</date>
+				<key>SystemTimeSuspend</key>
+				<date>2013-08-21T01:34:52Z</date>
 			</dict>
 		</array>
 	</dict>
