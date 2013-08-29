@@ -4,8 +4,11 @@
 <dict>
 	<key>OEAM</key>
 	<dict>
-		<key>encryptionCert</key>
-		<data></data>
+		<key>authentication</key>
+		<dict>
+			<key>certificateCSR</key>
+			<data></data>
+		</dict>
 		<key>logs</key>
 		<array>
 			<dict>
