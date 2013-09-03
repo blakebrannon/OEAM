@@ -43,8 +43,6 @@
 		</dict>
 		<key>applicationaccess</key>
 		<dict>
-			<key>allowScreenCapture</key>
-			<false/>
 			<key>allowCelluar</key>
 			<false/>
 			<key>allowRoaming</key>
@@ -67,6 +65,8 @@
 		</dict>
 		<key>mdm</key>
 		<dict>
+			<key>AppScheme</key>
+			<string>airwatch:</string>
 			<key>ManagementProviderURL</key>
 			<string></string>
 			<key>ManagementProvider</key>

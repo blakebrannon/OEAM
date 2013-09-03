@@ -779,7 +779,7 @@
 				ORGANIZATIONNAME = AirWatch;
 				TargetAttributes = {
 					96AEB94617CACFC700F087FF = {
-						DevelopmentTeam = 772W6P8BSB;
+						DevelopmentTeam = 23ZK39QJAC;
 						SystemCapabilities = {
 							com.apple.iCloud = {
 								enabled = 1;
