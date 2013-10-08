@@ -37,7 +37,7 @@
 			<key>companyName</key>
 			<string></string>
 			<key>logo</key>
-			<string></string>
+			<string>https://server/logo.png</string>
 			<key>wallpaper</key>
 			<string></string>
 		</dict>
@@ -65,8 +65,10 @@
 		</dict>
 		<key>mdm</key>
 		<dict>
+			<key>FeedbackNotifyURL</key>
+			<string></string>
 			<key>AppScheme</key>
-			<string>airwatch:</string>
+			<string>airwatch</string>
 			<key>ManagementProviderURL</key>
 			<string></string>
 			<key>ManagementProvider</key>
@@ -78,7 +80,9 @@
 		</dict>
 		<key>authentication</key>
 		<dict>
-			<key>certificateSignedCSR</key>
+			<key>ssoAuthenticationURL</key>
+			<string></string>
+			<key>appcertificateSignedCSR</key>
 			<data></data>
 			<key>OAuthToken</key>
 			<string>0</string>

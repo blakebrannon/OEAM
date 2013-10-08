@@ -4,9 +4,14 @@
 <dict>
 	<key>OEAM</key>
 	<dict>
+		<key>mdm</key>
+		<dict>
+			<key>encryptionCert</key>
+			<data>MjAxMy0wOS0wM1QxNzoxNzo0NFo=</data>
+		</dict>
 		<key>authentication</key>
 		<dict>
-			<key>certificateCSR</key>
+			<key>appcertificateCSR</key>
 			<data>MjAxMy0wOC0yOVQxNDowOTo0NVo=</data>
 		</dict>
 		<key>logs</key>
